@@ -8,12 +8,12 @@
 | Sara Chacón  | Diseño  |
 | Jimena  | Biologicas  |
 | Kenssi  | Biologicas  |
-------------
+
 ### Objetivo del Proyecto
 
-------------
+
 ### Configuraciones del Proyecto
 
-------------
+
 ### Link de nuestra Página Web
 https://juanbarco4.github.io/Nutrilife/
