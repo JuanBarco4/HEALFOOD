@@ -8,6 +8,7 @@
 | Sara Chacón  | Diseño  |
 | Jimena  | Biologicas  |
 | Kenssi  | Biologicas  |
+| Joana Méndez | Biologicas |
 
 ### Objetivo del Proyecto
 
