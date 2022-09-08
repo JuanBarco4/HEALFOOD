@@ -6,16 +6,40 @@
 
 html {
     font-size: 10px;
+    font-family: 'Montserrat', sans-serif;
 }
 
-@media screen and (max-width:37.5rem){ 
+@media screen and (max-width:37.5rem){
+
+    .heal {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
     
+    .btn_emp {
+        width: 55%;
+        height: auto;
+        padding: 0.7rem 0rem;
+        margin: 20% 0 0 0;
+    }
+
+    .logo {
+        width: 28.4rem;
+        height: 28.6rem;
+        margin: 20% 0 0 0;
+    }
+
+    .empresa {
+        margin: 20% 0 0 0;
+    }
 }
 
 @media screen and (max-width:136.5rem){ 
-    
+  
 }
 
 @media screen and (max-width:192rem){ 
-    
+
 }
