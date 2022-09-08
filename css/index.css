@@ -12,6 +12,22 @@ body {
     align-items: center;
 }
 
+.logo2 {
+    display: none;
+}
+
+.empresa2 {
+    display: none;
+}
+
+.banner {
+    display: none;
+}
+
+.inf {
+    display: none;
+}
+
 .heal {
     width: 100vw;
     height: auto;

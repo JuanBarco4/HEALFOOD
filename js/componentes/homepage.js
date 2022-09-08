@@ -5,7 +5,7 @@ homepage.innerHTML =
 '</div>'+    
 '<div class="heal">'+
     '<img class="logo" src="img/Recurso 4 1.png" alt="">'+
-    '<a class="btn_emp" href="">EMPEZAR</a>'+
+    '<a href="info.html" class="btn_emp" href="">EMPEZAR</a>'+
 '</div>';
 
 export function crearHomepage(){
