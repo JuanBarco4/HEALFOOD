@@ -4,6 +4,7 @@
 | ------------ | ------------ |
 |  Juan Barco |  Computación |
 |  Rigoberto Castellanos | Computación  |
+|  Byron Guerra | Computación  |
 | Lusvin González  |  Diseño |
 | Sara Chacón  | Diseño  |
 | Jimena  | Biologicas  |
