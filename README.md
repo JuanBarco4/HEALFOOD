@@ -19,4 +19,4 @@ puedan saber que ejercicios pueden realizar, la cantidad de lipidos, carbohidrat
 
 
 ### Link de nuestra Página Web
-https://juanbarco4.github.io/Nutrilife/
+https://juanbarco4.github.io/HEALFOOD/
