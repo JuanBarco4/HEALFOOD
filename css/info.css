@@ -1,0 +1,34 @@
+.header {
+    width: 100%;
+    height: auto;
+    background-color: #CAD9BA ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0.8rem 0;
+}
+
+@media screen and (max-width:37.5rem){ 
+   .logo {
+    width: 3.4rem;
+    height: 3.4rem;
+    
+} 
+
+.menu{
+   font-size: 2rem;
+   
+
+}
+
+
+}
+
+@media screen and (max-width:136.5rem){ 
+    
+}
+
+@media screen and (max-width:192rem){ 
+    
+}
