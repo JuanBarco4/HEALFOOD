@@ -2,7 +2,7 @@ export let info = document.createElement("div");
 info.innerHTML = 
 ' <header class="header"> '+
        '<img src="img/Recurso 4 1.png" class="logo2">'+
-        '<img src="img/HEALFOOD (2).png" class="empresa2">'+
+        '<img src="./img/HEALFOOD .png" class="empresa2">'+
         '<label for="btn-menu" class="fas fa-bars menu"><label>'+
     '</header>'+
     
