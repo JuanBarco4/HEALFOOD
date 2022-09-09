@@ -37,9 +37,56 @@ html {
 }
 
 @media screen and (max-width:136.5rem){ 
+
+    .heal {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .btn_emp {
+        width: 15%;
+        height: auto;
+        padding: 0.7rem 0rem;
+        margin-top: 8rem;
+    }
+
+    .logo {
+        width: 40.4rem;
+        margin-top: 8rem;
+    }
+
+    .empresa {
+        width: 55.8rem;
+        margin-top: 8rem;
+    }
   
 }
 
 @media screen and (max-width:192rem){ 
+    .heal {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .btn_emp {
+        width: 15%;
+        height: auto;
+        padding: 0.7rem 0rem;
+        margin-top: 5rem;
+    }
+
+    .logo {
+        width: 40.4rem;
+        margin-top: 5rem;
+    }
+
+    .empresa {
+        width: 55.8rem;
+        margin-top: 5rem;
+    }
 
 }

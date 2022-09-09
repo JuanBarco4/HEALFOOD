@@ -56,3 +56,20 @@ body {
     background-color: #488C03;
     border-radius: 0.6rem;
 }
+
+.container-menu {
+    display: none;
+
+}
+#btn-menu {
+    display: none;
+}
+.caja {
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
