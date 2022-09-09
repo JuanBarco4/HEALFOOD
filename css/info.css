@@ -229,6 +229,10 @@
     
 } 
 
+.empresa2 {
+    width: 20rem;
+}
+
 .menu{
    font-size: 2rem;
    cursor: pointer;
