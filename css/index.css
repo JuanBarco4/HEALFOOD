@@ -28,6 +28,14 @@ body {
     display: none;
 }
 
+.footer {
+    display: none;
+}
+
+.contenedor {
+    display: none;
+}
+
 .heal {
     width: 100vw;
     height: auto;

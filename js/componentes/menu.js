@@ -4,8 +4,10 @@ info.innerHTML =
     
     <img class="banner" src="./img/imagen-.png">
     <div class="contenedor">
-    <p class="inf">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed quae perferendis architecto error voluptatum. Maiores nam explicabo hic quas cupiditate recusandae, facere laboriosam ab dolore, voluptatum debitis numquam amet in.</p>
-    <p class="inf">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed quae perferendis architecto error voluptatum. Maiores nam explicabo hic quas cupiditate recusandae, facere laboriosam ab dolore, voluptatum debitis numquam amet in.</p>
+    <h2 class="titulo">BIENVENIDO</h2>
+    <p class="inf">Hola, te damos la bienvenida a Healfood en donde encontrarás información acerca de la salud alimenticia y todo lo que tiene que ver con ella, en donde puedas ver la cantidad de vitaminas, lípidos, carbohidratos y proteínas necesita tu cuerpo según tú complexión, esperamos que tu experiencia sea agradable.</p>
+    <h2 class="titulo2">¿SABES SOBRE BROMATOLOGÍA?</h2>
+    <p class="inf">Nosotros entendemos  que la bromatología es una rama de la ciencia que estudia a profundidad todo lo relacionado con los alimentos en cuanto a su composición, nutrientes, características fisicoquímicas</p>
     </div>'
      `
     
