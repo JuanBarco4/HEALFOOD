@@ -282,7 +282,6 @@
         }
 }
 
-
 @media screen and (max-width:37.5rem) and (orientation: portrait){ 
     
 .logo2 {
@@ -458,7 +457,7 @@
     height: 6.7rem;
     border-radius: 100%;
     position: absolute;
-    right: 30rem;
+    right: 30.4rem;
 }
 
 .porcentajes {
@@ -527,8 +526,8 @@
 
 .flecha {
     position: relative;
-    top: -3.5rem;
-    left: 12.5rem;
+    top: -3.38rem;
+    left: 13rem;
 }
 }
 
