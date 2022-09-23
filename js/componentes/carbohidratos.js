@@ -85,7 +85,7 @@ carbohidratos.innerHTML =
         </div>   
 </div>
 <div class="infoPro">
-    <img class="imagen" src="img/HIGADO.jpg" alt="">
+    <img class="imagen" src="img/HIGADO.png" alt="">
     <div class="container">
         <div class="alimento">
             <h3>HÍGADO</h3>
@@ -135,7 +135,7 @@ carbohidratos.innerHTML =
 </div>   
 </div>
 <div class="infoPro">
-<img class="imagen" src="img/FRIJOLES.jpg" alt="">
+<img class="imagen" src="img/FRIJOLES.png" alt="">
 <div class="container">
 <div class="alimento">
     <h3>FRIJOLES</h3>
@@ -235,7 +235,7 @@ carbohidratos.innerHTML =
 </div>   
 </div>
 <div class="infoPro">
-<img class="imagen" src="img/MANI.PNG" alt="">
+<img class="imagen" src="img/MANI.png" alt="">
 <div class="container">
     <div class="alimento">
         <h3>MANÍ</h3>
