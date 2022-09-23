@@ -118,6 +118,7 @@
             font-size: 1.8rem;
         
         }
+<<<<<<< HEAD
 
         .contenedor {
             width: 100%;
@@ -285,6 +286,11 @@
         }
 }
 
+=======
+}
+
+
+>>>>>>> 657a6e1506c2f0c4508a56a7e631487891c4882c
 @media screen and (max-width:37.5rem) and (orientation: portrait){ 
     
 .logo2 {
@@ -344,7 +350,11 @@
 .cont-menu nav a{
     display: block;
     text-decoration: none;
+<<<<<<< HEAD
     padding: 2rem ;
+=======
+    padding: 2rem;
+>>>>>>> 657a6e1506c2f0c4508a56a7e631487891c4882c
     color: #000;
     font-weight: 600;
     border-right: 0.5rem solid transparent;

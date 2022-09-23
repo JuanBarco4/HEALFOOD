@@ -1,7 +1,13 @@
 export let piramide = document.createElement("div");
 piramide.innerHTML = 
 
-`<div id="pir" class="piram piram2"></div> `
+`<div class="piramide-container">
+<img class="imagen" src="img/Piramide alimenticia.png" alt="">
+
+<div class="video-container">
+    <video src=""></video>
+</div>
+</div> `
 
 
     export function crearPiramide (){
@@ -10,7 +16,7 @@ piramide.innerHTML =
          // ELEMENTOS DEL DOM
          let div_pir = document.querySelector("#root");
     
-         div_pir.appendChild(crearPiramide);
+         div_pir.appendChild(piramide);
          // 
  
     

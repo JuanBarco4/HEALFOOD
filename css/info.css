@@ -50,6 +50,7 @@
         margin: 5rem 0rem 4rem 0rem;
         text-align: center;
         font-size: 1.5rem;
+        font-weight: 600;
     }
     .contenedor {
         width: 100%;
@@ -147,11 +148,12 @@
         }
     
         .inf {
-            width: 50%;
+            width: 40%;
             align-self: center;
-            margin: 5rem 0rem 4rem 0rem;
             text-align: center;
             font-size: 1.5rem;
+            font-weight: 600;
+            margin: 2rem 0rem 0rem 0rem;
         }
         .contenedor {
             width: 100%;
@@ -199,8 +201,9 @@
         .cont-menu nav a{
             display: block;
             text-decoration: none;
-            padding: 6rem ;
-            color: white;
+            padding: 2rem ;
+            color: #000;
+            font-weight: 600;
             border-right: 0.5rem solid transparent;
             transition: all 400ms ease;
             font-size: 1.5rem;
@@ -209,6 +212,7 @@
         .cont-menu nav a:hover{
             border-right: 0.5rem solid white ;
             background: #1f1f1f;
+            color: #ffffffff;
         }
         
         .cont-menu label {
@@ -219,6 +223,16 @@
             cursor: pointer;
             font-size: 1.8rem;
         
+        }
+
+        .titulo {
+            font-size: 3.6rem;
+            margin: 5rem 0rem 0rem 0rem;
+        }
+        
+        .titulo2 {
+            font-size: 3.6rem;
+            margin: 15rem 0rem 0rem 0rem;
         }
 }
 
@@ -278,8 +292,8 @@
 .cont-menu nav a{
     display: block;
     text-decoration: none;
-    padding: 3rem;
-    color: white;
+    padding: 2rem ;
+    color: #000;
     border-right: 0.5rem solid transparent;
     transition: all 400ms ease;
 }
@@ -287,6 +301,7 @@
 .cont-menu nav a:hover{
     border-right: 0.5rem solid white ;
     background: #1f1f1f;
+    color: #ffffffff;
 }
 
 .cont-menu label {
@@ -314,8 +329,19 @@
 }
 
 .inf {
-    width: 60%;
+    width: 65%;
     align-self: center;
-    margin: 5rem 0rem 4rem 0rem;
+    margin: 0rem 0rem 4rem 0rem;
+    font-weight: 600;
+}
+
+.titulo {
+    font-size: 1.6rem;
+    margin: 5rem 0rem 3rem 0rem;
+}
+
+.titulo2 {
+    font-size: 1.6rem;
+    margin: 5rem 0rem 3rem 0rem;
 }
 }
