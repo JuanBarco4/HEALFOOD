@@ -445,7 +445,8 @@
 
     justify-content: center;
     align-items: center;
-    width: 80%;
+    position: static;
+    width: 31.3rem;
     height: 6.5rem;
     background-color: #79DAE8;
     border-radius: 1.5rem;
@@ -456,8 +457,9 @@
     width: 6.7rem;
     height: 6.7rem;
     border-radius: 100%;
-    position: absolute;
-    right: 30.7rem;
+    position:static;
+    margin-left: -5rem;
+    margin-right: 1rem;
 }
 
 .porcentajes {
