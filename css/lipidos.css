@@ -1,0 +1,140 @@
+.header {
+    width: 100%;
+    height: auto;
+    background-color: #CAD9BA ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0.8rem 0;
+
+}
+ 
+.caja{
+
+    display: none !important ;
+
+}
+
+
+.vitam{
+    display: none ;
+
+}
+
+
+.piram{
+    display: none  ;
+
+}
+
+
+.lipid{
+    display: none  ;
+
+}
+
+
+.carbo{
+    display: none  ;
+
+}
+
+@media screen and (max-width:37.5rem) and (orientation: portrait){ 
+    
+.logo2 {
+    width: 3.4rem;
+    height: 3.4rem;
+    
+} 
+
+.empresa2 {
+    width: 20rem;
+}
+
+.menu{
+   font-size: 2rem;
+   cursor: pointer;
+   z-index: 100;
+
+}
+
+#btn-menu{
+    display: none;
+}
+
+.container-menu{
+    position: absolute;
+    background-color:rgb(202,217,186);
+    height: 100vh;
+    top: 0; right: 0;
+    transition: all 500ms ease;
+    opacity: 0;
+    visibility: hidden;
+}
+#btn-menu:checked ~ .container-menu{
+    opacity: 1;
+    visibility: visible;
+}
+
+.cont-menu{
+    
+    max-width: 25rem;
+    background-color: rgb(202,217,186); 
+  
+    position: relative;
+    transition: all 500ms ease;
+    transform: translateX(0%);
+}
+
+#btn-menu:checked ~ .container-menu{
+    transform: translateX(0%);
+}
+.cont-menu nav{
+    transform: translateY(15%);
+}
+
+.cont-menu nav a{
+    display: block;
+    text-decoration: none;
+    padding: 3rem;
+    color: white;
+    border-right: 0.5rem solid transparent;
+    transition: all 400ms ease;
+}
+
+.cont-menu nav a:hover{
+    border-right: 0.5rem solid white ;
+    background: #1f1f1f;
+}
+
+.cont-menu label {
+    position: absolute;
+    right: 0.5rem;
+    top: 1rem;
+    color: #fff;
+    cursor: pointer;
+    font-size: 1.8rem;
+
+}
+
+.banner {
+    width: 100%;
+    background-size: cover;
+}
+
+.contenedor {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.inf {
+    width: 60%;
+    align-self: center;
+    margin: 5rem 0rem 4rem 0rem;
+}
+  }
