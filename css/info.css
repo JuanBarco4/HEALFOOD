@@ -199,8 +199,9 @@
         .cont-menu nav a{
             display: block;
             text-decoration: none;
-            padding: 6rem ;
-            color: white;
+            padding: 2rem ;
+            color: #000;
+            font-weight: 600;
             border-right: 0.5rem solid transparent;
             transition: all 400ms ease;
             font-size: 1.5rem;
@@ -209,6 +210,7 @@
         .cont-menu nav a:hover{
             border-right: 0.5rem solid white ;
             background: #1f1f1f;
+            color: #ffffffff;
         }
         
         .cont-menu label {
@@ -278,8 +280,8 @@
 .cont-menu nav a{
     display: block;
     text-decoration: none;
-    padding: 3rem;
-    color: white;
+    padding: 2rem ;
+    color: #000;
     border-right: 0.5rem solid transparent;
     transition: all 400ms ease;
 }
@@ -287,6 +289,7 @@
 .cont-menu nav a:hover{
     border-right: 0.5rem solid white ;
     background: #1f1f1f;
+    color: #ffffffff;
 }
 
 .cont-menu label {
