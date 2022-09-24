@@ -1,35 +1,34 @@
-.footer{
-    background-color: #488C03;
-    width: 100%;
-    position: absolute;
-    bottom: 0;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    border-radius: 1rem 1rem 0 0;
-    color: #ffffff;
-}
-
-
-.nombres{ 
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-  
-    width: 100%;
-    padding: 1rem;
-}
-
 @media screen and (max-width:136.6rem) and (orientation: landscape){ 
-     .footer{
-        display: none;
-     }
-    .nombres{
-        display: none;
+    .footer{
+        background-color: #488C03;
+        width: 100%;
+        position: relative;
+        bottom: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border-radius: 1rem 1rem 0 0;
+        color: #ffffff;
+        vertical-align: bottom;
+        margin: 3rem 0rem 0rem 0rem
     }
 
+    .nombres{ 
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+      
+        width: 100%;
+        padding: 1rem;
+        font-size: 1.4rem;
+    }
+
+    .equipo {
+        font-size: 2rem;
+        margin: 2rem 0rem 1.5rem 0rem;
+    }
       }
 
 @media screen and (max-width:37.5rem) and (orientation: portrait){ 
