@@ -31,8 +31,8 @@ carbohidratos.innerHTML =
                 </div>
                 
             </div>
-            <i class="fa-solid fa-chevron-right flecha"></i>
-        </div>    
+        </div>  
+        <i class="fa-solid fa-chevron-right flecha"></i>  
     </div>
     <div class="infoPro">
         <img class="imagen" src="img/PAN.jpg" alt="">
@@ -56,8 +56,8 @@ carbohidratos.innerHTML =
                 </div>
                 
             </div>
-            <i class="fa-solid fa-chevron-right flecha"></i>
         </div>    
+        <i class="fa-solid fa-chevron-right flecha"></i>
     </div>
     <div class="infoPro">
         <img class="imagen" src="img/ARROZ.jpg" alt="">
@@ -81,8 +81,8 @@ carbohidratos.innerHTML =
                 </div>
                 
             </div>
-            <i class="fa-solid fa-chevron-right flecha"></i>
         </div>   
+        <i class="fa-solid fa-chevron-right flecha"></i>
 </div>
 <div class="infoPro">
     <img class="imagen" src="img/GALLETA.jpg" alt="">
@@ -106,8 +106,8 @@ carbohidratos.innerHTML =
             </div>
             
         </div>
-        <i class="fa-solid fa-chevron-right flecha"></i>
     </div>   
+    <i class="fa-solid fa-chevron-right flecha"></i>
 </div>
 <div class="infoPro">
 <img class="imagen" src="img/AVENA.jpg" alt="">
@@ -131,8 +131,8 @@ carbohidratos.innerHTML =
         </div>
         
     </div>
-    <i class="fa-solid fa-chevron-right flecha"></i>
 </div>   
+<i class="fa-solid fa-chevron-right flecha"></i>
 </div>
 <div class="infoPro">
 <img class="imagen" src="img/CALABAZA.jpg" alt="">
@@ -156,8 +156,8 @@ carbohidratos.innerHTML =
     </div>
     
 </div>
-<i class="fa-solid fa-chevron-right flecha"></i>
-</div>   
+</div>
+<i class="fa-solid fa-chevron-right flecha"></i>   
 </div>
 <div class="infoPro">
 <img class="imagen" src="img/CASTAÑAS.jpg" alt="">
@@ -181,8 +181,8 @@ carbohidratos.innerHTML =
     </div>
     
 </div>
-<i class="fa-solid fa-chevron-right flecha"></i>
-</div>   
+</div>
+<i class="fa-solid fa-chevron-right flecha"></i>   
 </div>
 <div class="infoPro">
 <img class="imagen" src="img/CHURROS.jpg" alt="">
@@ -206,8 +206,8 @@ carbohidratos.innerHTML =
         </div>
         
     </div>
-    <i class="fa-solid fa-chevron-right flecha"></i>
 </div>   
+<i class="fa-solid fa-chevron-right flecha"></i>
 </div>
 <div class="infoPro">
 <img class="imagen" src="img/ESPAGUETI.jpg" alt="">
@@ -231,8 +231,8 @@ carbohidratos.innerHTML =
         </div>
         
     </div>
-    <i class="fa-solid fa-chevron-right flecha"></i>
 </div>   
+<i class="fa-solid fa-chevron-right flecha"></i>
 </div>
 <div class="infoPro">
 <img class="imagen" src="img/JUDIAS.jpg" alt="">
@@ -256,8 +256,8 @@ carbohidratos.innerHTML =
         </div>
         
     </div>
-    <i class="fa-solid fa-chevron-right flecha"></i>
 </div>   
+<i class="fa-solid fa-chevron-right flecha"></i>
 </div>
 </div>`
 

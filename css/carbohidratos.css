@@ -160,7 +160,7 @@
             justify-content: space-between;
             align-items: center;
             width: 100%;
-            padding-top: 1.6rem;
+            padding-top: -1rem;
         }
     
         .alimento h3 {
@@ -185,9 +185,10 @@
     
         .infoPro {
             display: flex;
-    
-            justify-content: center;
+            flex-direction: row;  
+            justify-content: space-between;
             align-items: center;
+            padding: 0rem 3rem 0rem 0rem; 
             width: 40%;
             height: 11.8rem;
             background-color: #F77E21;
@@ -279,9 +280,6 @@
         }
     
         .flecha {
-            position: relative;
-            top: -5.8rem;
-            left: 23rem;
             font-size: 2rem;
         }
 }
@@ -410,7 +408,7 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    padding-top: 1rem;
+    padding-top: -1rem;
 }
 
 .alimento h3 {
@@ -431,9 +429,10 @@
 
 .infoPro {
     display: flex;
-    justify-content: center;
+    flex-direction: row;  
+    justify-content: space-between;
     align-items: center;
-    position: static;
+    padding: 0rem 2rem 0rem 0rem;
     width: 31.3rem;
     height: 6.5rem;
     background-color: #F77E21;
@@ -446,8 +445,7 @@
     height: 6.7rem;
     border-radius: 100%;
     position:static;
-    margin-left: -5rem;
-    margin-right: 1rem;
+    margin-left: -1.5rem;
 }
 
 .porcentajes {
@@ -515,9 +513,6 @@
 }
 
 .flecha {
-    position: relative;
-    top: -3.38rem;
-    left: 12.5rem;
     z-index: 10;
 }
   }

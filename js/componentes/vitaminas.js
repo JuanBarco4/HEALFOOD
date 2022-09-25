@@ -31,8 +31,8 @@ vitaminas.innerHTML =
                 </div>
                 
             </div>
-            <i class="fa-solid fa-chevron-right flecha"></i>
-        </div>    
+        </div>
+        <i class="fa-solid fa-chevron-right flecha"></i>    
     </div>
     <div class="infoPro">
         <img class="imagen" src="img/BRÓCOLI.jpg" alt="">
@@ -56,8 +56,8 @@ vitaminas.innerHTML =
                 </div>
                 
             </div>
-            <i class="fa-solid fa-chevron-right flecha"></i>
         </div>    
+        <i class="fa-solid fa-chevron-right flecha"></i>
     </div>
     <div class="infoPro">
         <img class="imagen" src="img/KIWI.webp" alt="">
@@ -81,8 +81,8 @@ vitaminas.innerHTML =
                 </div>
                 
             </div>
-            <i class="fa-solid fa-chevron-right flecha"></i>
         </div>   
+        <i class="fa-solid fa-chevron-right flecha"></i>
 </div>
 <div class="infoPro">
     <img class="imagen" src="img/PIMIENTOS.webp" alt="">
@@ -106,8 +106,8 @@ vitaminas.innerHTML =
             </div>
             
         </div>
-        <i class="fa-solid fa-chevron-right flecha"></i>
     </div>   
+    <i class="fa-solid fa-chevron-right flecha"></i>
 </div>
 <div class="infoPro">
 <img class="imagen" src="img/PESCADO.jpg" alt="">
@@ -131,8 +131,8 @@ vitaminas.innerHTML =
         </div>
         
     </div>
-    <i class="fa-solid fa-chevron-right flecha"></i>
 </div>   
+<i class="fa-solid fa-chevron-right flecha"></i>
 </div>
 <div class="infoPro">
 <img class="imagen" src="img/MANZANA.jpeg" alt="">
@@ -156,8 +156,8 @@ vitaminas.innerHTML =
     </div>
     
 </div>
-<i class="fa-solid fa-chevron-right flecha"></i>
-</div>   
+</div>
+<i class="fa-solid fa-chevron-right flecha"></i>   
 </div>
 <div class="infoPro">
 <img class="imagen" src="img/ZANAHORIA.webp" alt="">
@@ -181,8 +181,8 @@ vitaminas.innerHTML =
     </div>
     
 </div>
-<i class="fa-solid fa-chevron-right flecha"></i>
-</div>   
+</div>
+<i class="fa-solid fa-chevron-right flecha"></i>   
 </div>
 <div class="infoPro">
 <img class="imagen" src="img/ALCACHOFAS.webp" alt="">
@@ -206,8 +206,8 @@ vitaminas.innerHTML =
         </div>
         
     </div>
-    <i class="fa-solid fa-chevron-right flecha"></i>
 </div>   
+<i class="fa-solid fa-chevron-right flecha"></i>
 </div>
 <div class="infoPro">
 <img class="imagen" src="img/PLÁTANO.jpg" alt="">
@@ -231,8 +231,8 @@ vitaminas.innerHTML =
         </div>
         
     </div>
-    <i class="fa-solid fa-chevron-right flecha"></i>
 </div>   
+<i class="fa-solid fa-chevron-right flecha"></i>
 </div>
 <div class="infoPro">
 <img class="imagen" src="img/MANGO.jpg" alt="">
@@ -256,8 +256,8 @@ vitaminas.innerHTML =
         </div>
         
     </div>
-    <i class="fa-solid fa-chevron-right flecha"></i>
 </div>   
+<i class="fa-solid fa-chevron-right flecha"></i>
 </div>
 </div> `
 

@@ -5,7 +5,7 @@ lipidos.innerHTML =
 <h2 class="titulo">LÍPIDOS</h2>
 
 <div class="video-container">
-    <video src=""></video>
+    <video class="video" src="video/Background.mp4" controls autoplay></video>
 </div>
 
 <div class="alimentos">
@@ -31,8 +31,8 @@ lipidos.innerHTML =
                 </div>
                 
             </div>
-            <i class="fa-solid fa-chevron-right flecha"></i>
-        </div>    
+        </div>  
+        <i class="fa-solid fa-chevron-right flecha"></i>  
     </div>
     <div class="infoPro">
         <img class="imagen" src="img/CARNES ROJAS.jpg" alt="">
@@ -56,8 +56,8 @@ lipidos.innerHTML =
                 </div>
                 
             </div>
-            <i class="fa-solid fa-chevron-right flecha"></i>
         </div>    
+        <i class="fa-solid fa-chevron-right flecha"></i>
     </div>
     <div class="infoPro">
         <img class="imagen" src="img/MARISCOS.jpg" alt="">
@@ -81,8 +81,8 @@ lipidos.innerHTML =
                 </div>
                 
             </div>
-            <i class="fa-solid fa-chevron-right flecha"></i>
         </div>   
+        <i class="fa-solid fa-chevron-right flecha"></i>
 </div>
 <div class="infoPro">
     <img class="imagen" src="img/CHIA.jpg" alt="">
@@ -106,8 +106,8 @@ lipidos.innerHTML =
             </div>
             
         </div>
-        <i class="fa-solid fa-chevron-right flecha"></i>
     </div>   
+    <i class="fa-solid fa-chevron-right flecha"></i>
 </div>
 <div class="infoPro">
 <img class="imagen" src="img/HUEVOS.jpg" alt="">
@@ -131,8 +131,8 @@ lipidos.innerHTML =
         </div>
         
     </div>
-    <i class="fa-solid fa-chevron-right flecha"></i>
 </div>   
+<i class="fa-solid fa-chevron-right flecha"></i>
 </div>
 <div class="infoPro">
 <img class="imagen" src="img/LECHE.jpg" alt="">
@@ -156,8 +156,8 @@ lipidos.innerHTML =
     </div>
     
 </div>
-<i class="fa-solid fa-chevron-right flecha"></i>
-</div>   
+</div>
+<i class="fa-solid fa-chevron-right flecha"></i>   
 </div>
 <div class="infoPro">
 <img class="imagen" src="img/AGUACATE.jpg" alt="">
@@ -181,8 +181,8 @@ lipidos.innerHTML =
     </div>
     
 </div>
-<i class="fa-solid fa-chevron-right flecha"></i>
-</div>   
+</div>
+<i class="fa-solid fa-chevron-right flecha"></i>   
 </div>
 <div class="infoPro">
 <img class="imagen" src="img/CHOCOLATE.jpg" alt="">
@@ -206,8 +206,8 @@ lipidos.innerHTML =
         </div>
         
     </div>
-    <i class="fa-solid fa-chevron-right flecha"></i>
 </div>   
+<i class="fa-solid fa-chevron-right flecha"></i>
 </div>
 <div class="infoPro">
 <img class="imagen" src="img/Ellipse 20.png" alt="">
@@ -231,8 +231,8 @@ lipidos.innerHTML =
         </div>
         
     </div>
-    <i class="fa-solid fa-chevron-right flecha"></i>
 </div>   
+<i class="fa-solid fa-chevron-right flecha"></i>
 </div>
 <div class="infoPro">
 <img class="imagen" src="img/YPGUR.jpg" alt="">
@@ -256,8 +256,8 @@ lipidos.innerHTML =
         </div>
         
     </div>
-    <i class="fa-solid fa-chevron-right flecha"></i>
 </div>   
+<i class="fa-solid fa-chevron-right flecha"></i>
 </div>
 </div> `
 

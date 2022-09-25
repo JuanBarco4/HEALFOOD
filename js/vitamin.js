@@ -7,3 +7,5 @@ crearHeader();
 import { crearVit } from './componentes/vitaminas.js';
 crearVit();
 
+import {crearFooter} from './componentes/footer.js';
+crearFooter();

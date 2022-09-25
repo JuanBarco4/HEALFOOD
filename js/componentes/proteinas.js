@@ -30,9 +30,9 @@ prote.innerHTML =
                     <span>8%</span>
                 </div>
                 
-            </div>
-            <i class="fa-solid fa-chevron-right flecha"></i>
-        </div>    
+            </div>   
+        </div> 
+        <i class="fa-solid fa-chevron-right flecha"></i>   
     </div>
     <div class="infoPro">
         <img class="imagen" src="img/Ellipse 9.png" alt="">
@@ -56,8 +56,8 @@ prote.innerHTML =
                 </div>
                 
             </div>
-            <i class="fa-solid fa-chevron-right flecha"></i>
-        </div>    
+        </div>  
+        <i class="fa-solid fa-chevron-right flecha"></i>  
     </div>
     <div class="infoPro">
         <img class="imagen" src="img/POLLO.jpg" alt="">
@@ -81,8 +81,8 @@ prote.innerHTML =
                 </div>
                 
             </div>
-            <i class="fa-solid fa-chevron-right flecha"></i>
         </div>   
+        <i class="fa-solid fa-chevron-right flecha"></i>
 </div>
 <div class="infoPro">
     <img class="imagen" src="img/HIGADO.png" alt="">
@@ -106,8 +106,8 @@ prote.innerHTML =
             </div>
             
         </div>
-        <i class="fa-solid fa-chevron-right flecha"></i>
-    </div>   
+    </div>  
+    <i class="fa-solid fa-chevron-right flecha"></i> 
 </div>
 <div class="infoPro">
 <img class="imagen" src="img/Ellipse 12.png" alt="">
@@ -131,8 +131,8 @@ prote.innerHTML =
         </div>
         
     </div>
-    <i class="fa-solid fa-chevron-right flecha"></i>
-</div>   
+</div>  
+<i class="fa-solid fa-chevron-right flecha"></i> 
 </div>
 <div class="infoPro">
 <img class="imagen" src="img/FRIJOLES.png" alt="">
@@ -156,8 +156,8 @@ prote.innerHTML =
     </div>
     
 </div>
-<i class="fa-solid fa-chevron-right flecha"></i>
-</div>   
+</div> 
+<i class="fa-solid fa-chevron-right flecha"></i>  
 </div>
 <div class="infoPro">
 <img class="imagen" src="img/ATUN.webp" alt="">
@@ -181,8 +181,8 @@ prote.innerHTML =
     </div>
     
 </div>
-<i class="fa-solid fa-chevron-right flecha"></i>
-</div>   
+</div>  
+<i class="fa-solid fa-chevron-right flecha"></i> 
 </div>
 <div class="infoPro">
 <img class="imagen" src="img/SALMON.jpg" alt="">
@@ -206,8 +206,8 @@ prote.innerHTML =
         </div>
         
     </div>
-    <i class="fa-solid fa-chevron-right flecha"></i>
 </div>   
+<i class="fa-solid fa-chevron-right flecha"></i>
 </div>
 <div class="infoPro">
 <img class="imagen" src="img/MORCILLA.jpg" alt="">
@@ -231,8 +231,8 @@ prote.innerHTML =
         </div>
         
     </div>
-    <i class="fa-solid fa-chevron-right flecha"></i>
-</div>   
+</div> 
+<i class="fa-solid fa-chevron-right flecha"></i>  
 </div>
 <div class="infoPro">
 <img class="imagen" src="img/MANI.png" alt="">
@@ -256,8 +256,8 @@ prote.innerHTML =
         </div>
         
     </div>
-    <i class="fa-solid fa-chevron-right flecha"></i>
-</div>   
+</div> 
+<i class="fa-solid fa-chevron-right flecha"></i>  
 </div>
 </div> `
 
