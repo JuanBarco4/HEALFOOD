@@ -10,10 +10,10 @@ carbohidratos.innerHTML =
 
 <div class="alimentos">
     <div class="infoPro">
-        <img class="imagen" src="img/soja-1.jpg" alt="">
+        <img class="imagen" src="img/TRIGO.jpeg" alt="">
         <div class="container">
             <div class="alimento">
-                <h3>SOJA</h3>
+                <h3>HARINA DE TRIGO</h3>
                 <span>413 kcal,  335 cal</span>
             </div>
             <div class="porcentajes">
@@ -35,10 +35,10 @@ carbohidratos.innerHTML =
         </div>    
     </div>
     <div class="infoPro">
-        <img class="imagen" src="img/Ellipse 9.png" alt="">
+        <img class="imagen" src="img/PAN.jpg" alt="">
         <div class="container">
             <div class="alimento">
-                <h3>LENTEJAS</h3>
+                <h3>PAN</h3>
                 <span>413 kcal,  335 cal</span>
             </div>
             <div class="porcentajes">
@@ -60,10 +60,10 @@ carbohidratos.innerHTML =
         </div>    
     </div>
     <div class="infoPro">
-        <img class="imagen" src="img/POLLO.jpg" alt="">
+        <img class="imagen" src="img/ARROZ.jpg" alt="">
         <div class="container">
             <div class="alimento">
-                <h3>POLLO</h3>
+                <h3>ARROZ</h3>
                 <span>413 kcal,  335 cal</span>
             </div>
             <div class="porcentajes">
@@ -85,10 +85,10 @@ carbohidratos.innerHTML =
         </div>   
 </div>
 <div class="infoPro">
-    <img class="imagen" src="img/HIGADO.png" alt="">
+    <img class="imagen" src="img/GALLETA.jpg" alt="">
     <div class="container">
         <div class="alimento">
-            <h3>HÍGADO</h3>
+            <h3>GALLETAS</h3>
             <span>413 kcal,  335 cal</span>
         </div>
         <div class="porcentajes">
@@ -110,10 +110,10 @@ carbohidratos.innerHTML =
     </div>   
 </div>
 <div class="infoPro">
-<img class="imagen" src="img/Ellipse 12.png" alt="">
+<img class="imagen" src="img/AVENA.jpg" alt="">
 <div class="container">
     <div class="alimento">
-        <h3>ALMENDRAS</h3>
+        <h3>AVENA</h3>
         <span>413 kcal,  335 cal</span>
     </div>
     <div class="porcentajes">
@@ -135,10 +135,10 @@ carbohidratos.innerHTML =
 </div>   
 </div>
 <div class="infoPro">
-<img class="imagen" src="img/FRIJOLES.png" alt="">
+<img class="imagen" src="img/CALABAZA.jpg" alt="">
 <div class="container">
 <div class="alimento">
-    <h3>FRIJOLES</h3>
+    <h3>CALABAZA</h3>
     <span>413 kcal,  335 cal</span>
 </div>
 <div class="porcentajes">
@@ -160,10 +160,10 @@ carbohidratos.innerHTML =
 </div>   
 </div>
 <div class="infoPro">
-<img class="imagen" src="img/ATUN.webp" alt="">
+<img class="imagen" src="img/CASTAÑAS.jpg" alt="">
 <div class="container">
 <div class="alimento">
-    <h3>ATÚN</h3>
+    <h3>CASTAÑAS</h3>
     <span>413 kcal,  335 cal</span>
 </div>
 <div class="porcentajes">
@@ -185,10 +185,10 @@ carbohidratos.innerHTML =
 </div>   
 </div>
 <div class="infoPro">
-<img class="imagen" src="img/SALMON.jpg" alt="">
+<img class="imagen" src="img/CHURROS.jpg" alt="">
 <div class="container">
     <div class="alimento">
-        <h3>SALMÓN</h3>
+        <h3>CHURROS</h3>
         <span>413 kcal,  335 cal</span>
     </div>
     <div class="porcentajes">
@@ -210,10 +210,10 @@ carbohidratos.innerHTML =
 </div>   
 </div>
 <div class="infoPro">
-<img class="imagen" src="img/MORCILLA.jpg" alt="">
+<img class="imagen" src="img/ESPAGUETI.jpg" alt="">
 <div class="container">
     <div class="alimento">
-        <h3>MORCILLA</h3>
+        <h3>ESPAGUETIS</h3>
         <span>413 kcal,  335 cal</span>
     </div>
     <div class="porcentajes">
@@ -235,10 +235,10 @@ carbohidratos.innerHTML =
 </div>   
 </div>
 <div class="infoPro">
-<img class="imagen" src="img/MANI.png" alt="">
+<img class="imagen" src="img/JUDIAS.jpg" alt="">
 <div class="container">
     <div class="alimento">
-        <h3>MANÍ</h3>
+        <h3>JUDÍAS</h3>
         <span>413 kcal,  335 cal</span>
     </div>
     <div class="porcentajes">
