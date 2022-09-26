@@ -9,6 +9,7 @@ header.innerHTML =
     <div class="container-menu">
         <div class="cont-menu">
             <nav>
+                <input class="buscador" type="text" placeholder="🔍 search">
                 <a href="info.html" onclick="mostrarHome" id="H">Home</a>
                 <a href="Prote.html" onclick="mostrarPro" id="P">Proteinas</a>
                 <a href="Lip.html" onclick="mostrarLip"   id="L">Lípidos</a>

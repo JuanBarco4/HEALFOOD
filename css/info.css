@@ -121,6 +121,24 @@
         font-size: 1.8rem;
     
     }
+
+    .buscador {
+        border: none;
+        background:none;
+        height: 3rem;
+        outline: none;
+        text-align: center;
+        font-size: 1.5rem;
+        margin-top: 2rem;
+    }
+
+    .buscador::placeholder {
+        font-size: 1.5rem;
+    }
+
+    .buscador:focus {
+        border-bottom: 0.1rem solid #488C03;
+    }
     
 }
 
@@ -343,5 +361,21 @@
 .titulo2 {
     font-size: 1.6rem;
     margin: 5rem 0rem 3rem 0rem;
+}
+
+.buscador {
+    border: none;
+    background:none;
+    max-width: 11.7rem;
+    height: 3rem;
+    outline: none;
+    text-align: center;
+    margin-top: 2rem;
+
+    display: block;
+
+}
+.buscador:focus {
+    border-bottom: 0.1rem solid #488C03;
 }
 }
