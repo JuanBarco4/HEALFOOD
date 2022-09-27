@@ -148,7 +148,10 @@
         height: 5.5rem;
         
     } 
-    
+    .pi {
+        width: 70rem;
+    } 
+
     .menu{
        font-size: 3rem;
        cursor: pointer;
@@ -260,6 +263,13 @@
     height: 3.4rem;
     
 } 
+
+.pi {
+width: 80%;
+}
+.por{
+width: 80% ;
+}
 
 .empresa2 {
     width: 20rem;
