@@ -1,7 +1,7 @@
 export let homepage = document.createElement("div");
 homepage.innerHTML =
 `<div class="caja caja2" id="home">
-    div class="heal2">
+    <div class="heal2">
         <img class="empresa" src="./img/HEALFOOD .png" alt="">
     </div>   
     <div class="heal">
