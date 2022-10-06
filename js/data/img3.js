@@ -2,7 +2,7 @@ export let producto = [
     {
         img : 'https://www.tododisca.com/wp-content/uploads/2021/09/ajo.jpg',
         alimento: 'Ajo',
-        descripcion: '413 kcal,  335 cal',
+        descripcion: '124 cal',
         proteina: 'Proteínas',
         dato: '18.52%',
         carbohidrato: 'Carbohidratos',
@@ -11,41 +11,41 @@ export let producto = [
         dato3: '0.31%'
     },
     {
-        img : 'http://1.bp.blogspot.com/-sFgT2ovexmE/VCQ2y8t9tXI/AAAAAAAAKpw/qHke_wmOhdA/s1600/cuixadexai.jpg',
-        alimento: 'Cordero (Pierna)',
+        img : 'https://mejorconsalud.as.com/wp-content/uploads/2018/05/apio-fresco-cortado-entero.jpg',
+        alimento: 'APIO',
         descripcion: '413 kcal,  335 cal',
         proteina: 'Proteínas',
-        dato: '14.44%',
+        dato: '46.94%',
         carbohidrato: 'Carbohidratos',
-        dato2: '82.77%',
+        dato2: '48.98%',
         lipido: 'Lipídos',
-        dato3: '2.79%'
+        dato3: '4.08%'
     },
     {
-        img : 'img/ARROZ.jpg',
+        img : 'https://pymstatic.com/106822/conversions/beneficios-arandano-wide.jpg',
+        alimento: 'ARANDANO',
+        descripcion: '41 cal',
+        proteina: 'Proteínas',
+        dato: '5.41%',
+        carbohidrato: 'Carbohidratos',
+        dato2: '90.99%',
+        lipido: 'Lipídos',
+        dato3: '3.60%'
+    },
+    {
+        img : 'https://cdni.russiatoday.com/actualidad/public_images/2022.06/article/62a83b1d59bf5b77c938aa27.jpg',
         alimento: 'ARROZ',
-        descripcion: '413 kcal,  335 cal',
+        descripcion: '362 cal',
         proteina: 'Proteínas',
-        dato: '36%',
+        dato: '7.35%',
         carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
+        dato2: '90.02%',
         lipido: 'Lipídos',
-        dato3: '8%'
+        dato3: '0.63%'
     },
     {
-        img : 'img/GALLETA.jpg',
-        alimento: 'GALLETAS',
-        descripcion: '413 kcal,  335 cal',
-        proteina: 'Proteínas',
-        dato: '36%',
-        carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
-        lipido: 'Lipídos',
-        dato3: '8%'
-    },
-    {
-        img : 'img/AVENA.jpg',
-        alimento: 'AVENA',
+        img : 'img/CALABAZA.jpg',
+        alimento: 'CALABAZA',
         descripcion: '413 kcal,  335 cal',
         proteina: 'Proteínas',
         dato: '36%',

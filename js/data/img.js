@@ -2,7 +2,7 @@ export let producto = [
     {
         img : 'https://dam.cocinafacil.com.mx/wp-content/uploads/2022/02/almejas.jpg',
         alimento: 'Almejas',
-        descripcion: '413 kcal,  335 cal',
+        descripcion: '73 cal',
         proteina: 'Proteínas',
         dato: '68.46%',
         carbohidrato: 'Carbohidratos',
@@ -11,15 +11,15 @@ export let producto = [
         dato3: '16.78%'
     },
     {
-        img : 'https://www.mercadodechamartin.es/madrid/wp-content/uploads/2017/11/Cordero.jpeg',
-        alimento: 'Cabrito',
-        descripcion: '413 kcal,  335 cal',
+        img : 'https://images.ecestaticos.com/JofIDUjvcS0A08_MDfIEKrAeJe8=/0x146:2269x1424/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F273%2F3d4%2Fe5e%2F2733d4e5e8a3334e81eedff38fea272b.jpg',
+        alimento: 'ATÚN FRESCO',
+        descripcion: '158 cal',
         proteina: 'Proteínas',
-        dato: '52.03%',
+        dato: '72.88%',
         carbohidrato: 'Carbohidratos',
-        dato2: '1.90%',
+        dato2: '27.12%',
         lipido: 'Lipídos',
-        dato3: '46.07%'
+        dato3: '0.00%'
     },
     {
         img : 'https://img.interempresas.net/fotos/2710508.jpeg',

@@ -5,11 +5,7 @@ prote.innerHTML =
 <h2 class="titulo">PROTEÍNAS</h2>
 
 <div class="video-container">
-<<<<<<< HEAD
-<video class="video"></video>
-=======
-    <video src=""></video>
->>>>>>> 02e48cf6a0f62612d4f59a4bba575e4b7ec7f0b3
+<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/oTwzyme3o50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div id="alimentos" class="alimentos"></div>
