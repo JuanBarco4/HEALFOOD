@@ -3,12 +3,7 @@ estad.innerHTML =
 ` 
     
     <div class="contenedor">
-    
-<<<<<<< HEAD
     <img class="por" src="img/porcion.png" alt="">
-=======
-    <img class="por" src="img/porcion.PNG" alt="">
->>>>>>> 02e48cf6a0f62612d4f59a4bba575e4b7ec7f0b3
     </div>'
      `
     
