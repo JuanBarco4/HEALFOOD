@@ -64,7 +64,7 @@ export let producto = [
         carbohidrato: 'Carbohidratos',
         dato2: '68.42%',
         lipido: 'Lipídos',
-        dato3: '2.63%'0
+        dato3: '2.63%'
     },
 
 
