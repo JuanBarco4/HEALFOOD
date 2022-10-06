@@ -35,9 +35,7 @@ piramide.innerHTML =
     </div>
 </div>
 
-<div class="video-container">
-    <video class="video" src="" controls autoplay></video>
-</div>
+
 </div> `
 
 

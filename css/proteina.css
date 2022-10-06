@@ -139,8 +139,13 @@
         .video-container {
             margin-top: 3rem;
             width: 80%;
-            height: 45rem;
-            background-color: #D9D9D9;
+            height: 55rem;
+        }
+
+        .video-container video{
+            width: 100%;
+            height: 100%;
+            border: 1.5rem solid #D9D9D9;
         }
     
         .alimentos {
@@ -149,7 +154,7 @@
             height: auto;
             display: flex;
             flex-wrap: wrap;
-            justify-content: center;
+            justify-content: space-around;
             align-items: center;
         }
     
@@ -181,18 +186,22 @@
         .container div {
             margin: 1.5rem 0rem 0rem 0rem;
         }
+
+        .item {
+            width: 40%;
+        }
     
         .infoPro {
             display: flex;
             flex-direction: row;  
-            justify-content: space-between;
+            justify-content: space-around;
             align-items: center;
             padding: 0rem 3rem 0rem 0rem; 
-            width: 40%;
+            width: 100%;
             height: 11.8rem;
             background-color: #F77E21;
             border-radius: 1.5rem;
-            margin: 1.8rem 6rem 1.8rem 6rem;
+            margin: 1.8rem 0rem 1.8rem 0rem;
         }
     
         .imagen {
@@ -201,6 +210,7 @@
             border-radius: 100%;
             position:relative;
             left: -4.5rem;
+            object-fit: cover;
         }
     
         .porcentajes {
@@ -382,10 +392,14 @@
 }
 
 .video-container {
-    margin-top: 3rem;
     width: 80%;
-    height: 20.8rem;
-    background-color: #D9D9D9;
+    height: 18rem;
+}
+
+.video-container video{
+    width: 100%;
+    height: 100%;
+    border: 1.5rem solid #D9D9D9;
 }
 
 .alimentos {
@@ -439,9 +453,10 @@
 .imagen {
     width: 6.7rem;
     height: 6.7rem;
-    border-radius: 100%;
+    border-radius: 50%;
     position:static;
     margin-left: -1.5rem;
+    object-fit: cover;
 }
 
 .porcentajes {

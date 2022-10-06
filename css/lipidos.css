@@ -154,7 +154,7 @@
             height: auto;
             display: flex;
             flex-wrap: wrap;
-            justify-content: center;
+            justify-content: space-around;
             align-items: center;
         }
     
@@ -164,7 +164,7 @@
             justify-content: space-between;
             align-items: center;
             width: 100%;
-            padding-top: 1.6rem;
+            padding-top: 0.2rem;
         }
     
         .alimento h3 {
@@ -186,18 +186,22 @@
         .container div {
             margin: 1.5rem 0rem 0rem 0rem;
         }
+
+        .item {
+            width: 40%;
+        }
     
         .infoPro {
             display: flex;
             flex-direction: row;  
-            justify-content: space-between;
+            justify-content: space-around;
             align-items: center;
             padding: 0rem 3rem 0rem 0rem; 
-            width: 40%;
+            width: 100%;
             height: 11.8rem;
             background-color: #79DAE8;
             border-radius: 1.5rem;
-            margin: 1.8rem 6rem 1.8rem 6rem;
+            margin: 1.8rem 0rem 1.8rem 0rem;
         }
     
         .imagen {
@@ -206,6 +210,7 @@
             border-radius: 100%;
             position:relative;
             left: -4.5rem;
+            object-fit: cover;
         }
     
         .porcentajes {
@@ -231,8 +236,9 @@
         }
     
         .porcentajes .prot span{
-            padding-left: 1.5rem;
+            padding-left: 2.5rem;
             margin: 0.3rem 0rem 0rem 0rem;
+            font-weight: 400;
          }
     
         .porcentajes .carb{
@@ -247,8 +253,9 @@
             margin-left: -1.5rem;
          }
          .porcentajes .carb span{
-            padding-left: 1.4rem;
+            padding-left: 2.5rem;
             margin: 0.3rem 0rem 0rem 0rem;
+            font-weight: 400;
          }
     
          .porcentajes .lipi{
@@ -265,7 +272,8 @@
     
          .porcentajes .lipi span{
             padding-right: -11rem;
-            margin: 0.3rem -3.8rem 0rem 0rem;
+            margin: 0.3rem -4.5rem 0rem 0rem;
+            font-weight: 400;
          }
     
         .porcentajes h3 {
@@ -467,6 +475,7 @@
     border-radius: 100%;
     position:static;
     margin-left: -1.5rem;
+    object-fit: cover;
 }
 
 .porcentajes {
