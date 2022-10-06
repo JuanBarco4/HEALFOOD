@@ -1,178 +1,69 @@
 export let producto = [
+    
     {
-        img : 'https://dam.cocinafacil.com.mx/wp-content/uploads/2022/02/almejas.jpg',
-        alimento: 'Almejas',
-        descripcion: '73 cal',
+        img : 'https://i.blogs.es/8ceb02/pollo_entero/1366_2000.jpg',
+        alimento: 'POLLO MUSLO',
+        descripcion: '130 cal',
         proteina: 'Proteínas',
-        dato: '68.46%',
-        carbohidrato: 'Carbohidratos',
-        dato2: '14.77%',
-        lipido: 'Lipídos',
-        dato3: '16.78%'
-    },
-    {
-        img : 'https://images.ecestaticos.com/JofIDUjvcS0A08_MDfIEKrAeJe8=/0x146:2269x1424/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F273%2F3d4%2Fe5e%2F2733d4e5e8a3334e81eedff38fea272b.jpg',
-        alimento: 'ATÚN FRESCO',
-        descripcion: '158 cal',
-        proteina: 'Proteínas',
-        dato: '72.88%',
-        carbohidrato: 'Carbohidratos',
-        dato2: '27.12%',
-        lipido: 'Lipídos',
-        dato3: '0.00%'
-    },
-    {
-        img : 'https://img.interempresas.net/fotos/2710508.jpeg',
-        alimento: 'Cerdo carne magra',
-        descripcion: '413 kcal,  335 cal',
-        proteina: 'Proteínas',
-        dato: '74.53%',
+        dato: '77.47%',
         carbohidrato: 'Carbohidratos',
         dato2: '0.00%',
         lipido: 'Lipídos',
-        dato3: '25.47%'
-    },
-    {
-        img : 'https://upload.wikimedia.org/wikipedia/commons/6/64/Venison_Steaks.jpg',
-        alimento: 'Ciervo',
-        descripcion: '413 kcal,  335 cal',
-        proteina: 'Proteínas',
-        dato: '82.52%',
-        carbohidrato: 'Carbohidratos',
-        dato2: '2.44%',
-        lipido: 'Lipídos',
-        dato3: '15.04%'
+        dato3: '22.53%'
     },
     {
         img : 'https://www.arrozsos.es/wp-content/uploads/2015/06/GettyImages-1165673135.jpg',
-        alimento: 'Codorniz',
-        descripcion: '413 kcal,  335 cal',
+        alimento: 'PEZ ESPADA',
+        descripcion: '109 cal',
         proteina: 'Proteínas',
-        dato: '78.62%',
+        dato: '76.47%',
         carbohidrato: 'Carbohidratos',
-        dato2: '0.00%',
+        dato2: '4.52%',
         lipido: 'Lipídos',
-        dato3: '21.38%'
+        dato3: '19.00%'
     },
     {
-        img : 'img/FRIJOLES.png',
-        alimento: 'Hígado de cerdo',
-        descripcion: '413 kcal,  335 cal',
+        img : 'https://dam.cocinafacil.com.mx/wp-content/uploads/2020/11/como-hacer-pavo.jpg',
+        alimento: 'PAVO',
+        descripcion: '134 kcal',
         proteina: 'Proteínas',
-        dato: '78.35%',
+        dato: '80.59%',
         carbohidrato: 'Carbohidratos',
-        dato2: '5.15%',
+        dato2: '1.47%',
         lipido: 'Lipídos',
-        dato3: '16.49%'
+        dato3: '17.95%'
     },
     {
-        img : 'img/soja-1.jpg',
-        alimento: 'SOJA',
-        descripcion: '413 kcal,  335 cal',
+        img : 'https://1.bp.blogspot.com/-xdzh8eezAwo/XZwU-g1SToI/AAAAAAAAEeM/pte6v02cb_smfQf4761-V0Pvxa9y23lQwCLcBGAsYHQ/s1600/hake.jpg',
+        alimento: 'MERLUZA',
+        descripcion: '71 kcal',
         proteina: 'Proteínas',
-        dato: '36%',
+        dato: '98.27%',
         carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
+        dato2: '0.00%   ',
         lipido: 'Lipídos',
-        dato3: '8%'
+        dato3: '1.73%'
     },
     {
-        img : 'img/Ellipse 9.png',
-        alimento: 'LENTEJAS',
-        descripcion: '413 kcal,  335 cal',
+        img : 'https://ep01.epimg.net/elcomidista/imagenes/2018/05/16/receta/1526478704_456084_1526849609_media_normal.jpg',
+        alimento: 'MEJILLONES',
+        descripcion: '66 kcal',
         proteina: 'Proteínas',
-        dato: '36%',
+        dato: '65.73%',
         carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
+        dato2: '19.10%',
         lipido: 'Lipídos',
-        dato3: '8%'
+        dato3: '15.17%'
     },
     {
-        img : 'img/POLLO.jpg',
-        alimento: 'POLLO',
-        descripcion: '413 kcal,  335 cal',
+        img : 'https://www.sabervivirtv.com/medio/2022/05/03/estas-son-las-7-diferencias-entre-la-mantequilla-y-la-margarina_1671fa62_1200x630.jpg',
+        alimento: 'MARGARINA',
+        descripcion: '747 kcal',
         proteina: 'Proteínas',
-        dato: '36%',
+        dato: '99.70%',
         carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
+        dato2: '0.30%',
         lipido: 'Lipídos',
-        dato3: '8%'
-    },
-    {
-        img : 'img/HIGADO.png',
-        alimento: 'HÍGADO',
-        descripcion: '413 kcal,  335 cal',
-        proteina: 'Proteínas',
-        dato: '36%',
-        carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
-        lipido: 'Lipídos',
-        dato3: '8%'
-    },
-    {
-        img : 'img/Ellipse 12.png',
-        alimento: 'ALMENDRAS',
-        descripcion: '413 kcal,  335 cal',
-        proteina: 'Proteínas',
-        dato: '36%',
-        carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
-        lipido: 'Lipídos',
-        dato3: '8%'
-    },
-    {
-        img : 'img/FRIJOLES.png',
-        alimento: 'FRIJOLES',
-        descripcion: '413 kcal,  335 cal',
-        proteina: 'Proteínas',
-        dato: '36%',
-        carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
-        lipido: 'Lipídos',
-        dato3: '8%'
-    },
-    {
-        img : 'img/ATUN.webp',
-        alimento: 'ATÚN',
-        descripcion: '413 kcal,  335 cal',
-        proteina: 'Proteínas',
-        dato: '36%',
-        carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
-        lipido: 'Lipídos',
-        dato3: '8%'
-    },
-    {
-        img : 'img/SALMON.jpg',
-        alimento: 'SALMÓN',
-        descripcion: '413 kcal,  335 cal',
-        proteina: 'Proteínas',
-        dato: '36%',
-        carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
-        lipido: 'Lipídos',
-        dato3: '8%'
-    },
-    {
-        img : 'img/MORCILLA.jpg',
-        alimento: 'MORCILLA',
-        descripcion: '413 kcal,  335 cal',
-        proteina: 'Proteínas',
-        dato: '36%',
-        carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
-        lipido: 'Lipídos',
-        dato3: '8%'
-    },
-    {
-        img : 'img/MANI.png',
-        alimento: 'MANÍ',
-        descripcion: '413 kcal,  335 cal',
-        proteina: 'Proteínas',
-        dato: '36%',
-        carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
-        lipido: 'Lipídos',
-        dato3: '8%'
+        dato3: '0.00%'
     }
 ];

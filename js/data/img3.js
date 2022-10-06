@@ -42,71 +42,79 @@ export let producto = [
         dato2: '90.02%',
         lipido: 'Lipídos',
         dato3: '0.63%'
-    },
+    } ,
     {
-        img : 'img/CALABAZA.jpg',
-        alimento: 'CALABAZA',
-        descripcion: '413 kcal,  335 cal',
+        img : 'https://www.nutricienta.com/imagenes/alimentos/alimento-nutricienta-leche-semidesnatada.jpg',
+        alimento: 'LECHE SEMIDESCREMADA',
+        descripcion: '49 cal',
         proteina: 'Proteínas',
-        dato: '36%',
+        dato: '33.98%',
         carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
+        dato2: '48.54%',
         lipido: 'Lipídos',
-        dato3: '8%'
+        dato3: '17.48%'
     },
+
+
     {
-        img : 'img/CALABAZA.jpg',
-        alimento: 'CALABAZA',
-        descripcion: '413 kcal,  335 cal',
+        img : 'https://statics-cuidateplus.marca.com/cms/styles/natural/azblob/lechuga.jpg.webp?itok=kvw7kO2D',
+        alimento: 'LECHUGA',
+        descripcion: '19 cal',
         proteina: 'Proteínas',
-        dato: '36%',
+        dato: '40.91%',
         carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
+        dato2: '50.00%',
         lipido: 'Lipídos',
-        dato3: '8%'
+        dato3: '9.09%'
     },
+
     {
-        img : 'img/CASTAÑAS.jpg',
-        alimento: 'CASTAÑAS',
-        descripcion: '413 kcal,  335 cal',
+        img : 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZbq_DbTAt6Yw7QS3xTvU4Tiv32WWHaU5Zeg&usqp=CAU',
+        alimento: 'LENTEJA',
+        descripcion: '325 cal',
         proteina: 'Proteínas',
-        dato: '36%',
+        dato: '30.67%',
         carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
+        dato2: '66.26%',
         lipido: 'Lipídos',
-        dato3: '8%'
+        dato3: '3.07%'
     },
+
     {
-        img : 'img/CHURROS.jpg',
-        alimento: 'CHURROS',
-        descripcion: '413 kcal,  335 cal',
+        img : 'https://mejorconsalud.as.com/wp-content/uploads/2015/05/beneficios-del-limon-posiblemente-no-conocias.jpg',
+        alimento: 'LIMÓN',
+        descripcion: '14 cal',
         proteina: 'Proteínas',
-        dato: '36%',
+        dato: '0.00%',
         carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
+        dato2: '84.21%',
         lipido: 'Lipídos',
-        dato3: '8%'
+        dato3: '15.79%'
     },
+
+
     {
-        img : 'img/ESPAGUETI.jpg',
-        alimento: 'SPAGUETIS',
-        descripcion: '413 kcal,  335 cal',
+        img : 'https://cdn.wikifarmer.com/wp-content/uploads/2022/07/Valor-nutricional-del-maiz-y-beneficios-para-la-salud.jpg',
+        alimento: 'MAÍZ',
+        descripcion: '363 cal',
         proteina: 'Proteínas',
-        dato: '36%',
+        dato: '10.70%',
         carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
+        dato2: '84.88%',
         lipido: 'Lipídos',
-        dato3: '8%'
+        dato3: '4.42%'
     },
+
     {
-        img : 'img/JUDIAS.jpg',
-        alimento: 'JUDÍAS',
-        descripcion: '413 kcal,  335 cal',
+        img : 'https://www.gob.mx/cms/uploads/article/main_image/49906/Untitled-1.jpg',
+        alimento: 'MANDARINA',
+        descripcion: '41 cal',
         proteina: 'Proteínas',
-        dato: '36%',
+        dato: '6.86%',
         carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
+        dato2: '89.22%',
         lipido: 'Lipídos',
-        dato3: '8%'
+        dato3: '3.92%'
     }
+
 ];

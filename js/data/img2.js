@@ -66,47 +66,73 @@ export let producto = [
         dato3: '4.08%'
     },
     {
-        img : 'img/AGUACATE.jpg',
-        alimento: 'AGUACATE',
-        descripcion: '413 kcal,  335 cal',
+        img : 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0guYEnNxvUc70n_a4pQ3eGiDh7dhI4pmGn6C3M6Noz9QG9uP4jQ7Jn6k-d-azYigOKjY&usqp=CAU',
+        alimento: 'LUBINA',
+        descripcion: '82 cal',
         proteina: 'Proteínas',
-        dato: '36%',
+        dato: '8.02%',
         carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
+        dato2: '3.21%',
         lipido: 'Lipídos',
-        dato3: '8%'
+        dato3: '88.77%'
     },
+    
     {
-        img : 'img/CHOCOLATE.jpg',
-        alimento: 'CHOCOLATE NEGRO',
-        descripcion: '413 kcal,  335 cal',
+        img : 'http://www.2000agro.com.mx/wp-content/uploads/manteca-cerdo.jpg',
+        alimento: 'MANTECA DE CERDO',
+        descripcion: '891 cal',
         proteina: 'Proteínas',
-        dato: '36%',
+        dato: '0.36%',
         carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
+        dato2: '0.24%',
         lipido: 'Lipídos',
-        dato3: '8%'
+        dato3: '99.40%'
     },
+
     {
-        img : 'img/Ellipse 20.png',
-        alimento: 'ACEITE DE OLIVA',
-        descripcion: '413 kcal,  335 cal',
+        img : 'https://okdiario.com/img/2019/07/29/propiedades-de-la-mantequilla.jpg',
+        alimento: 'MANTEQUILLA',
+        descripcion: '750 cal',
         proteina: 'Proteínas',
-        dato: '36%',
+        dato: '0.72%',
         carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
+        dato2: '0.36%',
         lipido: 'Lipídos',
-        dato3: '8%'
+        dato3: '98.93%'
     },
+
     {
-        img : 'img/YPGUR.jpg',
-        alimento: 'YOGUR ENTERO',
-        descripcion: '413 kcal,  335 cal',
+        img : 'https://cdn.shopify.com/s/files/1/1699/9375/files/nueve-beneficios-de-la-nuez-pecan-1_1024x1024.jpg?v=1514127989',
+        alimento: 'NUEZ',
+        descripcion: '670 cal',
         proteina: 'Proteínas',
-        dato: '36%',
+        dato: '17.31%',
         carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
+        dato2: '12.43%',
         lipido: 'Lipídos',
-        dato3: '8%'
-    }
-];
+        dato3: '70.26%'
+    },
+
+    {
+        img : 'https://www.comedera.com/wp-content/uploads/2022/04/Pato-al-horno-shutterstock_379385302.jpg',
+        alimento: 'PATO',
+        descripcion: '288 cal',
+        proteina: 'Proteínas',
+        dato: '38.97%',
+        carbohidrato: 'Carbohidratos',
+        dato2: '0.00%',
+        lipido: 'Lipídos',
+        dato3: '61.03%'
+    },
+
+    {
+        img : 'https://www.lavanguardia.com/files/article_main_microformat/uploads/2018/09/03/5e9982ce54439.jpeg',
+        alimento: 'PIÑON',
+        descripcion: '568',
+        proteina: 'Proteínas',
+        dato: '35.92% ',
+        carbohidrato: 'Carbohidratos',
+        dato2: '6.07%',
+        lipido: 'Lipídos',
+        dato3: '58.01%'
+    }]
