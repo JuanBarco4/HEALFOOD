@@ -3,11 +3,11 @@ import {producto} from "../../data/img3.js";
 
 export function item(el_producto){
 let contenido =
-    '<div class="infoPro">'+
+    '<div class="infoPro articulo">'+
         '<img class="imagen" src="'+ producto[el_producto].img +'" alt="">'+
         '<div class="container">'+
             '<div class="alimento">'+
-                '<h3>'+ producto[el_producto].alimento +'</h3>'+
+                '<h3 class="articulo">'+ producto[el_producto].alimento +'</h3>'+
                 '<span>'+ producto[el_producto].descripcion +'</span>'+
             '</div>'+
             '<div class="porcentajes">'+

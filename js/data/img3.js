@@ -1,7 +1,7 @@
 export let producto = [
     {
         img : 'https://www.tododisca.com/wp-content/uploads/2021/09/ajo.jpg',
-        alimento: 'Ajo',
+        alimento: 'AJO',
         descripcion: '124 cal',
         proteina: 'Proteínas',
         dato: '18.52%',
@@ -44,69 +44,69 @@ export let producto = [
         dato3: '0.63%'
     },
     {
-        img : 'img/CALABAZA.jpg',
-        alimento: 'CALABAZA',
-        descripcion: '413 kcal,  335 cal',
+        img : 'https://eresmama.com/wp-content/uploads/2022/08/berenjenas-negras-cortadas.jpg',
+        alimento: 'BERENJENA',
+        descripcion: '16 cal',
         proteina: 'Proteínas',
-        dato: '36%',
+        dato: '28.95%',
         carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
+        dato2: '68.42%',
         lipido: 'Lipídos',
-        dato3: '8%'
+        dato3: '2.63%'
     },
     {
-        img : 'img/CALABAZA.jpg',
-        alimento: 'CALABAZA',
-        descripcion: '413 kcal,  335 cal',
+        img : 'https://images.ecestaticos.com/k3510yohyVw1MNQP9LqxdaE2Q20=/0x105:2119x1297/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd43%2Fdb1%2F1fd%2Fd43db11fd5b608f2ad3b92564effdfee.jpg',
+        alimento: 'BRÓCOLI',
+        descripcion: '31 cal',
         proteina: 'Proteínas',
-        dato: '36%',
+        dato: '2.67%',
         carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
+        dato2: '53.33%',
         lipido: 'Lipídos',
-        dato3: '8%'
+        dato3: '44.00%'
     },
     {
-        img : 'img/CASTAÑAS.jpg',
-        alimento: 'CASTAÑAS',
-        descripcion: '413 kcal,  335 cal',
+        img : 'https://www.saborusa.com/cr/wp-content/uploads/sites/14/2019/10/Beneficios-del-mani-o-cacahuate-Foto-destacada.png',
+        alimento: 'CACAHUATE',
+        descripcion: '452 cal',
         proteina: 'Proteínas',
-        dato: '36%',
+        dato: '25.19%',
         carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
+        dato2: '43.21%',
         lipido: 'Lipídos',
-        dato3: '8%'
+        dato3: '31.60%'
     },
     {
-        img : 'img/CHURROS.jpg',
-        alimento: 'CHURROS',
-        descripcion: '413 kcal,  335 cal',
+        img : 'https://www.tucanaldesalud.es/idcsalud-client/cm/images?locale=es_ES&idMmedia=1449689',
+        alimento: 'CARDO',
+        descripcion: '10 cal',
         proteina: 'Proteínas',
-        dato: '36%',
+        dato: '25.00%',
         carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
+        dato2: '4.17%',
         lipido: 'Lipídos',
-        dato3: '8%'
+        dato3: '70.83%'
     },
     {
-        img : 'img/ESPAGUETI.jpg',
-        alimento: 'SPAGUETIS',
-        descripcion: '413 kcal,  335 cal',
+        img : 'https://eromay.com/wp-content/uploads/2019/08/tipos-cebollas.jpg',
+        alimento: 'CEBOLLA',
+        descripcion: '24 cal',
         proteina: 'Proteínas',
-        dato: '36%',
+        dato: '83.87%',
         carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
+        dato2: '0.00%',
         lipido: 'Lipídos',
-        dato3: '8%'
+        dato3: '0.00%'
     },
     {
-        img : 'img/JUDIAS.jpg',
-        alimento: 'JUDÍAS',
-        descripcion: '413 kcal,  335 cal',
+        img : 'https://img.europapress.es/fotoweb/fotonoticia_20170621080134_1200.jpg',
+        alimento: 'CEREZA',
+        descripcion: '48 cal',
         proteina: 'Proteínas',
-        dato: '36%',
+        dato: '6.35%',
         carbohidrato: 'Carbohidratos',
-        dato2: '31.3%',
+        dato2: '92.86%',
         lipido: 'Lipídos',
-        dato3: '8%'
+        dato3: '0.79%'
     }
 ];
