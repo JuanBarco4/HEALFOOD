@@ -1,7 +1,6 @@
 export let producto = [
     
     {
-<<<<<<< HEAD
         img : 'https://i.blogs.es/8ceb02/pollo_entero/1366_2000.jpg',
         alimento: 'POLLO MUSLO',
         descripcion: '130 cal',
@@ -66,7 +65,8 @@ export let producto = [
         dato2: '0.30%',
         lipido: 'Lipídos',
         dato3: '0.00%'
-=======
+    },
+    {
         img : 'https://dam.cocinafacil.com.mx/wp-content/uploads/2022/02/almejas.jpg',
         alimento: 'ALMEJAS',
         descripcion: '413 kcal,  335 cal',
@@ -175,6 +175,5 @@ export let producto = [
         dato2: '31.3%',
         lipido: 'Lipídos',
         dato3: '9.95%'
->>>>>>> c1903e2eb13534ead98ca806c3873f40bc7700a0
     }
 ];
