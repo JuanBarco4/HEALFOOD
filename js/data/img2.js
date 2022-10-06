@@ -66,7 +66,6 @@ export let producto = [
         dato3: '2.32%'
     },
     {
-<<<<<<< HEAD
         img : 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0guYEnNxvUc70n_a4pQ3eGiDh7dhI4pmGn6C3M6Noz9QG9uP4jQ7Jn6k-d-azYigOKjY&usqp=CAU',
         alimento: 'LUBINA',
         descripcion: '82 cal',
@@ -76,7 +75,8 @@ export let producto = [
         dato2: '3.21%',
         lipido: 'Lipídos',
         dato3: '88.77%'
-=======
+    },
+    {
         img : 'https://static.vecteezy.com/system/resources/previews/005/192/554/non_2x/raw-squid-on-cutting-board-with-salad-spices-lemon-garlic-on-the-white-plate-background-fresh-squids-octopus-or-cuttlefish-for-cooked-food-at-restaurant-or-seafood-market-free-photo.JPG',
         alimento: 'CALAMAR',
         descripcion: '68 cal',
@@ -86,11 +86,9 @@ export let producto = [
         dato2: '4.67%',
         lipido: 'Lipídos',
         dato3: '84.00%'
->>>>>>> c1903e2eb13534ead98ca806c3873f40bc7700a0
     },
     
     {
-<<<<<<< HEAD
         img : 'http://www.2000agro.com.mx/wp-content/uploads/manteca-cerdo.jpg',
         alimento: 'MANTECA DE CERDO',
         descripcion: '891 cal',
@@ -100,7 +98,9 @@ export let producto = [
         dato2: '0.24%',
         lipido: 'Lipídos',
         dato3: '99.40%'
-=======
+ },
+    
+    {
         img : 'https://www.gob.mx/cms/uploads/image/file/479734/durazno1.jpg',
         alimento: 'DURAZNO',
         descripcion: '52 cal',
@@ -110,11 +110,9 @@ export let producto = [
         dato2: '62.01%',
         lipido: 'Lipídos',
         dato3: '32.98%'
->>>>>>> c1903e2eb13534ead98ca806c3873f40bc7700a0
     },
 
     {
-<<<<<<< HEAD
         img : 'https://okdiario.com/img/2019/07/29/propiedades-de-la-mantequilla.jpg',
         alimento: 'MANTEQUILLA',
         descripcion: '750 cal',
@@ -124,7 +122,9 @@ export let producto = [
         dato2: '0.36%',
         lipido: 'Lipídos',
         dato3: '98.93%'
-=======
+ },
+    
+    {
         img : 'https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2021/07/26/60fe5d4a4e079.r_d.1060-707-0.jpeg',
         alimento: 'GARBANZO',
         descripcion: '338 cal',
@@ -133,12 +133,10 @@ export let producto = [
         carbohidrato: 'Carbohidratos',
         dato2: '26.9%',
         lipido: 'Lipídos',
-        dato3: '67.04%'
->>>>>>> c1903e2eb13534ead98ca806c3873f40bc7700a0
+        dato3: '67.04%'0
     },
 
     {
-<<<<<<< HEAD
         img : 'https://cdn.shopify.com/s/files/1/1699/9375/files/nueve-beneficios-de-la-nuez-pecan-1_1024x1024.jpg?v=1514127989',
         alimento: 'NUEZ',
         descripcion: '670 cal',
@@ -172,8 +170,9 @@ export let producto = [
         dato2: '6.07%',
         lipido: 'Lipídos',
         dato3: '58.01%'
-    }]
-=======
+      },
+
+    {
         img : 'https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2022/01/27/16432787394446.jpg',
         alimento: 'HINOJO',
         descripcion: '16 cal',
@@ -185,4 +184,4 @@ export let producto = [
         dato3: '12.50%'
     }
 ];
->>>>>>> c1903e2eb13534ead98ca806c3873f40bc7700a0
+
