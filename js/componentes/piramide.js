@@ -2,7 +2,7 @@ export let piramide = document.createElement("div");
 piramide.innerHTML = 
 
 `<div class="piramide-container">
-<img class="imagen" src="img/Piramide alimenticia.png" alt="">
+<img class="imagen4" src="img/Piramide alimenticia.png" alt="">
 <div class="infoP">
     <div class="padre">
         <div class="linea"></div>
@@ -10,7 +10,6 @@ piramide.innerHTML =
         <span>Lorem ipsum</span>
     </div>
 </div>
-
 <div class="infoP2">
     <div class="padre2">
         <div class="linea2"></div>
@@ -18,7 +17,6 @@ piramide.innerHTML =
         <span>Lorem ipsum</span>
     </div>
 </div>
-
 <div class="infoP3">
     <div class="padre3">
         <div class="linea3"></div>
@@ -26,7 +24,6 @@ piramide.innerHTML =
         <span>Lorem ipsum</span>
     </div>
 </div>
-
 <div class="infoP4">
     <div class="padre4">
         <div class="linea4"></div>
@@ -34,8 +31,6 @@ piramide.innerHTML =
         <span>Lorem ipsum</span>
     </div>
 </div>
-
-
 </div> `
 
 

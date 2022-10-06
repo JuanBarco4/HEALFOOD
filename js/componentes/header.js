@@ -9,13 +9,11 @@ header.innerHTML =
     <div class="container-menu">
         <div class="cont-menu">
             <nav>
-                <input class="buscador" type="text" placeholder="🔍 search">
+                <input class="buscador" type="text" placeholder="🔍 search" name="buscador" id="buscador">
                 <a href="info.html" onclick="mostrarHome" id="H">Home</a>
                 <a href="Prote.html" onclick="mostrarPro" id="P">Proteinas</a>
                 <a href="Lip.html" onclick="mostrarLip"   id="L">Lípidos</a>
                 <a href="Carbo.html" onclick="mostrarCar" id="C">Carbohidratos</a>
-                <a href="Vit.html" onclick="mostrarVit"   id="V">Vitaminas</a>
-                <a href="Piramide.html" onclick="mostrarPir" id="Pi">Piramide</a>
             </nav>'
             <label for="btn-menu" class=""></label>
         </div>

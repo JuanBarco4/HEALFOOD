@@ -1,7 +1,7 @@
 export let producto = [
     {
         img : 'https://images.ecestaticos.com/WmWX6IWC-nxb1cKDHcVDkCU6zGs=/3x89:1696x1043/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F071%2Fe1a%2F4ec%2F071e1a4ecde3fb1a62b449152a3cf312.jpg',
-        alimento: 'Aceite de oliva',
+        alimento: 'ACEITE DE OLIVA',
         descripcion: '900 cal',
         proteina: 'Proteínas',
         dato: '0.00%',
@@ -12,7 +12,7 @@ export let producto = [
     },
     {
         img : 'https://www.diariodesevilla.es/2022/02/01/sociedad/aceite-semillas-contras-nuevo-sustituto_1652845463_151286450_667x375.jpg',
-        alimento: 'Aceite de semillas',
+        alimento: 'ACEITE DE SEMILLAS',
         descripcion: '900 cal',
         proteina: 'Proteínas',
         dato: '0.00%',
@@ -23,7 +23,7 @@ export let producto = [
     },
     {
         img : 'https://www.prensalibre.com/wp-content/uploads/2019/09/shutterstock_785296315.jpg?quality=52&w=760&h=430&crop=1',
-        alimento: 'Aguacate',
+        alimento: 'AGUACATE',
         descripcion: '232 cal',
         proteina: 'Proteínas',
         dato: '6.64%',
@@ -34,7 +34,7 @@ export let producto = [
     },
     {
         img : 'https://www.webconsultas.com/sites/default/files/styles/wch_image_schema/public/temas/alcachofas.jpg',
-        alimento: 'Alcachofa',
+        alimento: 'ALCACHOFA',
         descripcion: '17 cal',
         proteina: 'Proteínas',
         dato: '5.13%',
@@ -55,17 +55,18 @@ export let producto = [
         dato3: '71.99%'
     },
     {
-        img : 'https://mejorconsalud.as.com/wp-content/uploads/2018/05/apio-fresco-cortado-entero.jpg',
-        alimento: 'APIO',
-        descripcion: '22 cal',
+        img : 'https://soycomocomo.es/media/2010/05/avellanes.jpg',
+        alimento: 'AVELLANA',
+        descripcion: '625 cal',
         proteina: 'Proteínas',
-        dato: '46.94%',
+        dato: '16.73%',
         carbohidrato: 'Carbohidratos',
-        dato2: '48.98%',
+        dato2: '80.95%',
         lipido: 'Lipídos',
-        dato3: '4.08%'
+        dato3: '2.32%'
     },
     {
+<<<<<<< HEAD
         img : 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0guYEnNxvUc70n_a4pQ3eGiDh7dhI4pmGn6C3M6Noz9QG9uP4jQ7Jn6k-d-azYigOKjY&usqp=CAU',
         alimento: 'LUBINA',
         descripcion: '82 cal',
@@ -75,9 +76,21 @@ export let producto = [
         dato2: '3.21%',
         lipido: 'Lipídos',
         dato3: '88.77%'
+=======
+        img : 'https://static.vecteezy.com/system/resources/previews/005/192/554/non_2x/raw-squid-on-cutting-board-with-salad-spices-lemon-garlic-on-the-white-plate-background-fresh-squids-octopus-or-cuttlefish-for-cooked-food-at-restaurant-or-seafood-market-free-photo.JPG',
+        alimento: 'CALAMAR',
+        descripcion: '68 cal',
+        proteina: 'Proteínas',
+        dato: '11.33%',
+        carbohidrato: 'Carbohidratos',
+        dato2: '4.67%',
+        lipido: 'Lipídos',
+        dato3: '84.00%'
+>>>>>>> c1903e2eb13534ead98ca806c3873f40bc7700a0
     },
     
     {
+<<<<<<< HEAD
         img : 'http://www.2000agro.com.mx/wp-content/uploads/manteca-cerdo.jpg',
         alimento: 'MANTECA DE CERDO',
         descripcion: '891 cal',
@@ -87,9 +100,21 @@ export let producto = [
         dato2: '0.24%',
         lipido: 'Lipídos',
         dato3: '99.40%'
+=======
+        img : 'https://www.gob.mx/cms/uploads/image/file/479734/durazno1.jpg',
+        alimento: 'DURAZNO',
+        descripcion: '52 cal',
+        proteina: 'Proteínas',
+        dato: '5.01%',
+        carbohidrato: 'Carbohidratos',
+        dato2: '62.01%',
+        lipido: 'Lipídos',
+        dato3: '32.98%'
+>>>>>>> c1903e2eb13534ead98ca806c3873f40bc7700a0
     },
 
     {
+<<<<<<< HEAD
         img : 'https://okdiario.com/img/2019/07/29/propiedades-de-la-mantequilla.jpg',
         alimento: 'MANTEQUILLA',
         descripcion: '750 cal',
@@ -99,9 +124,21 @@ export let producto = [
         dato2: '0.36%',
         lipido: 'Lipídos',
         dato3: '98.93%'
+=======
+        img : 'https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2021/07/26/60fe5d4a4e079.r_d.1060-707-0.jpeg',
+        alimento: 'GARBANZO',
+        descripcion: '338 cal',
+        proteina: 'Proteínas',
+        dato: '6.05%',
+        carbohidrato: 'Carbohidratos',
+        dato2: '26.9%',
+        lipido: 'Lipídos',
+        dato3: '67.04%'
+>>>>>>> c1903e2eb13534ead98ca806c3873f40bc7700a0
     },
 
     {
+<<<<<<< HEAD
         img : 'https://cdn.shopify.com/s/files/1/1699/9375/files/nueve-beneficios-de-la-nuez-pecan-1_1024x1024.jpg?v=1514127989',
         alimento: 'NUEZ',
         descripcion: '670 cal',
@@ -136,3 +173,16 @@ export let producto = [
         lipido: 'Lipídos',
         dato3: '58.01%'
     }]
+=======
+        img : 'https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2022/01/27/16432787394446.jpg',
+        alimento: 'HINOJO',
+        descripcion: '16 cal',
+        proteina: 'Proteínas',
+        dato: '7.50%',
+        carbohidrato: 'Carbohidratos',
+        dato2: '80.00%',
+        lipido: 'Lipídos',
+        dato3: '12.50%'
+    }
+];
+>>>>>>> c1903e2eb13534ead98ca806c3873f40bc7700a0
