@@ -34,7 +34,7 @@ export let producto = [
         dato3: '17.95%'
     },
     {
-        img : 'https://1.bp.blogspot.com/-xdzh8eezAwo/XZwU-g1SToI/AAAAAAAAEeM/pte6v02cb_smfQf4761-V0Pvxa9y23lQwCLcBGAsYHQ/s1600/hake.jpg',
+        img : 'https://img.freepik.com/fotos-premium/merluza-cruda-pescado_88242-2056.jpg',
         alimento: 'MERLUZA',
         descripcion: '71 kcal',
         proteina: 'Proteínas',
